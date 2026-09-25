@@ -2,6 +2,7 @@
 
 - Diana Oliveira Rachas
 - A109975
+- ![foto](foto.png)
 
 ## Resumo 
 TPC2: Implementação em Python do jogo "Adivinha o número".
