@@ -1,1 +1,10 @@
+## Autor 
 
+- Diana Oliveira Rachas
+- A109975
+
+## Resumo 
+TPC2: Implementação em Python do jogo "Adivinha o número".
+
+## Resultados
+*Jogo "Adivinha o número": ![TPC_2](TPC_2.ipynb)
